@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robot Paper Analyzer"
+  short_description: "Evalúa papers de robótica para IA física"
+  default_prompt: "Use $robot-paper-analyzer to explain what practical robot capability this research URL contributes."
