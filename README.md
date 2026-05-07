@@ -16,10 +16,8 @@ Está pensada para alumnos del curso de Integrarobot. Cuando se le pasa una URL 
 Desde Codex, pide:
 
 ```text
-Instala la skill desde https://github.com/TU-USUARIO/robot-paper-analyzer/tree/main/robot-paper-analyzer
+Instala la skill desde https://github.com/integrarobot/robot-paper-analyzer/tree/main/robot-paper-analyzer
 ```
-
-Sustituye `TU-USUARIO` por el usuario u organización de GitHub donde publiques este repositorio.
 
 Después de instalarla, reinicia Codex para que aparezca entre las skills disponibles.
 
